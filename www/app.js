@@ -31,7 +31,7 @@ const articles = [
     {
       id: 3,
       title: 'Call of Duty : Warzone',
-      imageuri:'https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mw-wz/WZ-Season-Three-Announce-TOUT.jpg',
+      imguri:'https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mw-wz/WZ-Season-Three-Announce-TOUT.jpg',
       content: `Call of Duty Warzone is a battle royale game set in the Call of Duty universe. It is a free-to-play game that is available on Windows, Xbox, PlayStation, and PlayStation 5. In Warzone, players drop onto a large map and must gather resources and weapons while trying to be the last person or team standing.
 
       The game features a variety of weapons and equipment, including both standard weapons and specialist equipment that can be earned through play or purchased with in-game currency. Warzone also has a variety of vehicles, including cars, trucks, and helicopters, which players can use to traverse the map and gain the upper hand over their opponents.
