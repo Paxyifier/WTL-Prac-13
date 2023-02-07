@@ -2,7 +2,7 @@ var app = angular.module("myApp", ["ngRoute"]);
 const articles = [
     {
       id: 1,
-      title: 'Article 1',
+      title: 'Valorant',
       content: 'Article 1 content'
     },
     {
