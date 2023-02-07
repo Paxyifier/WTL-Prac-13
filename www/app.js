@@ -65,6 +65,10 @@ app.config(function ($routeProvider) {
         .otherwise({ redirectTo: '/' });
 });
 app.controller('HomeController', function($scope) {
+  $scope.articles = articles; 
+  $scope.goToArticle = function(id) {
+    $location.path('/article/' + id);
+  }
     $scope.message = 'Hello from HomeController';
     
   });

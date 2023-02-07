@@ -78,25 +78,10 @@
     <!-- Add the main section -->
     <div class="main">
       <!-- Add the first blog post -->
-      <div class="post">
-        <h2>Valorant</h2>
-        <p>Valorant is a free-to-play first-person shooter video game developed and published by Riot Games. It was released in 2020 for Windows, and it is set in a futuristic world where a group of agents with unique abilities fight against each other to complete objectives. The game has both casual and competitive modes and has been well-received for its graphics, gameplay, and strategic elements.</p>
-        <a href="#!/article/1">Read More</a>
-      </div>
-      
-      <!-- Add the second blog post
-      <!-- Add the second blog post -->
-      <div class="post">
-        <h2>Fortnite</h2>
-        <p>Fortnite is a popular online video game that was first released in 2017. It is developed by Epic Games and is available on a variety of platforms including Windows, Mac, Xbox, PlayStation, Nintendo Switch, and mobile devices. The game can be played in several modes, including Battle Royale, Creative, and Save the World, with Battle Royale being the most popular.</p>
-        <a href="#!/article/2">Read More</a>
-      </div>
-      
-      <!-- Add the third blog post -->
-      <div class="post">
-        <h2>Call Of Duty:Warzone</h2>
-        <p>Call of Duty Warzone is a first-person shooter game set in the Call of Duty universe. It is available on Windows, Xbox, PlayStation, and PlayStation 5. The game is played on a large map with up to 150 players who parachute in and fight to be the last person or team standing. </p>
-        <a href="#!/article/3">Read More</a>
+      <div class="post" ng-repeat="article in articles">
+        <h2>{{article.title}}</h2>
+        <p>{{article.content.slice(0,100)}}</p>
+        <a href="" ng-href="#!/article/{{article.id}}">Read More</a>
       </div>
     </div>
   </body>
