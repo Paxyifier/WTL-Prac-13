@@ -3,6 +3,7 @@ const articles = [
     {
       id: 1,
       title: 'Valorant',
+      imguri:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.riotgames.com%2Fen%2Fnews%2Fstarting-the-valorant-journey&psig=AOvVaw0YKv5hlWZIz7AVy5fVVLZf&ust=1675837268369000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJimz8Digv0CFQAAAAAdAAAAABAD',
       content: `Valorant is a tactical first-person shooter game that was released by Riot Games in 2020. The game is set in a dystopian future where players control a squad of agents with unique abilities. Each agent has different abilities and weapons, and players must work together to complete objectives and eliminate the enemy team.
 
       The game features two modes: the standard game mode, where teams of five players compete against each other in a best-of-25 rounds format, and Spike Rush, a casual game mode with shorter rounds and more ability usage. Valorant has received praise for its tight, skill-based gameplay, strategic elements, and for being well-optimized for low-end computers.
@@ -16,6 +17,7 @@ const articles = [
     {
       id: 2,
       title: 'Fortnite',
+      imguri: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trustedreviews.com%2Fnews%2Ffortnite-chapter-3-new-map-battle-pass-skins-release-date-4189712&psig=AOvVaw38JT7g0l5Jib4sBUAo7LXe&ust=1675837390497000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjgvf7igv0CFQAAAAAdAAAAABAD',
       content: `Fortnite is a popular online game that combines elements of survival, exploration, and building. In addition to the Battle Royale mode, the game also includes the Creative mode, where players have unlimited resources and can build and create their own worlds and games, and the Save the World mode, where players work together to survive against waves of monsters.
 
       One of the unique aspects of Fortnite is its building mechanics, which allow players to construct structures and use them for defensive purposes or to reach high places. This has led to a large number of creative players who build intricate structures and designs.
@@ -29,6 +31,7 @@ const articles = [
     {
       id: 3,
       title: 'Call of Duty : Warzone',
+      imageuri:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.callofduty.com%2Fblog%2F2021%2F04%2FWarzone-Season-Three-Overview-Verdansk-84&psig=AOvVaw3sVa2gnFFTrBxpeI9y3pHL&ust=1675837465136000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiMuZrjgv0CFQAAAAAdAAAAABAD',
       content: `Call of Duty Warzone is a battle royale game set in the Call of Duty universe. It is a free-to-play game that is available on Windows, Xbox, PlayStation, and PlayStation 5. In Warzone, players drop onto a large map and must gather resources and weapons while trying to be the last person or team standing.
 
       The game features a variety of weapons and equipment, including both standard weapons and specialist equipment that can be earned through play or purchased with in-game currency. Warzone also has a variety of vehicles, including cars, trucks, and helicopters, which players can use to traverse the map and gain the upper hand over their opponents.
