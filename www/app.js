@@ -3,7 +3,7 @@ const articles = [
     {
       id: 1,
       title: 'Valorant',
-      imguri:'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.riotgames.com%2Fen%2Fnews%2Fstarting-the-valorant-journey&psig=AOvVaw0YKv5hlWZIz7AVy5fVVLZf&ust=1675837268369000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJimz8Digv0CFQAAAAAdAAAAABAD',
+      imguri:'https://www.riotgames.com/darkroom/1370/d0807e131a84f2e42c7a303bda672789:a0e5fc336a003f2987ce613812fbf9f4/valorant-offwhitelaunch-keyart.jpg',
       content: `Valorant is a tactical first-person shooter game that was released by Riot Games in 2020. The game is set in a dystopian future where players control a squad of agents with unique abilities. Each agent has different abilities and weapons, and players must work together to complete objectives and eliminate the enemy team.
 
       The game features two modes: the standard game mode, where teams of five players compete against each other in a best-of-25 rounds format, and Spike Rush, a casual game mode with shorter rounds and more ability usage. Valorant has received praise for its tight, skill-based gameplay, strategic elements, and for being well-optimized for low-end computers.
